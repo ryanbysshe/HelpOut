@@ -8,3 +8,5 @@ SIGNUP
 
 USER APPROVAL
 - Users verified and approved
+
+CHAT FUNCTIONALITY
